@@ -1,1 +1,1 @@
-Test
+When organizations and clubs have a lot of members, it gets hard to keep track of them. Previous ways to keep track of group members have either been on paper, or with Google Drive, which can get easily erased and changed. This database application allows members of organizations to sign up for events as well as other activities in a more flexible manor. This database will make life easier for the leaders of the organization and club to keep track of their members, as well as hold members accountable for events and activities they have signed up for. 
